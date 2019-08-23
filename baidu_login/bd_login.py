@@ -9,7 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 
 usrname = '17513257267'
-pwd = '741WHITESQ!'
+pwd = 'pwd'
 
 
 # 初始化一个浏览器
